@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;500;600;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.container{
+  box-sizing: border-box;
+  min-width: 380px;
+  max-width: 414px;
+  height: 100vh;
+  max-height: 100vh;
+  background-color: rgb(250, 253, 255);
+  padding: 30px 15px;
+  overflow: hidden;
+}
+
+.add-container{
+  box-sizing: border-box;
+  margin: auto;
+  max-width: 400px;
+  height: 100vh;
+  max-height: 100vh;
+  background-color: white;
+  padding: 30px 15px;
+  overflow: hidden;
+}
+
+.icon{
+  font-size: 1.5rem;
+  color: #727171;
+}
+
+.icon-menu{
+  font-size: 2rem;
+  color: rgb(114, 113, 113);
+}
+
+input{
+  outline: none;
+}
+
+
+@media (max-width: 380px) {
+  
+}
