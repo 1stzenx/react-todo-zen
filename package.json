@@ -1,16 +1,16 @@
 {
-  "name": "react-todo-lord",
+  "name": "react-todo-zen",
   "version": "0.2.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lord85147/react_todo.git"
+    "url": "https://github.com/1stzenx/react-todo-zen.git"
   },
-  "author": "lord85147",
+  "author": "1stzenx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lord85147/react_todo/issues"
+    "url": "https://github.com/1stzenx/react-todo-zen.git/issues"
   },
-  "homepage": "https://github.com/lord85147/react_todo#readme",
+  "homepage": "https://github.com/1stzenx/react-todo-zen.git#readme",
   "dependencies": {
     "dependencyp": "^1.0.0",
     "libron-tren": "^0.1.2",
