@@ -1,0 +1,21 @@
+.signup-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    width: 100%;
+}
+
+.error-bar{
+    color: white;
+    display: block;
+    font-weight: 300;
+    font-size: small;
+    padding: 14px 10px;
+    margin-bottom: 2rem;
+    background-color: rgba(245, 8, 40, 0.637);
+    border-radius: 5px;
+}
