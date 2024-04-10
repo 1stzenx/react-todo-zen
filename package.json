@@ -8,7 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/1stzenx/react-todo-zen.git"
+    "url": "git+https://github.com/1stzenx/react-todo-zen.git",
+  "version": "0.2.3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1stzenx/react-todo-zen.git"
   },
   "author": "1stzenx",
   "license": "ISC",
@@ -16,6 +20,9 @@
     "url": "https://github.com/1stzenx/react-todo-zen/issues"
   },
   "homepage": "https://github.com/1stzenx/react-todo-zen#readme",
+    "url": "https://github.com/1stzenx/react-todo-zen.git/issues"
+  },
+  "homepage": "https://github.com/1stzenx/react-todo-zen.git#readme",
   "dependencies": {
     "react-todo-zen": "^1.0.0",
     "zendepend": "^1.0.0",
